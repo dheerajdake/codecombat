@@ -1,14 +1,14 @@
 ﻿module.exports = nativeDescription: "English", englishDescription: "English", translation:
   home:
-    slogan: "Learn to Code by Playing a Game"
+    slogan: "Play - Learn - Code - Fun"
     no_ie: "CodeCombat does not run in Internet Explorer 8 or older. Sorry!"  # Warning that only shows up in IE8 and older
     no_mobile: "CodeCombat wasn't designed for mobile devices and may not work!"  # Warning that shows up on mobile devices
-    play: "Play"  # The big play button that opens up the campaign view.
+    play: "Let's get started"  # The big play button that opens up the campaign view.
     old_browser: "Uh oh, your browser is too old to run CodeCombat. Sorry!"  # Warning that shows up on really old Firefox/Chrome/Safari
     old_browser_suffix: "You can try anyway, but it probably won't work."
     ipad_browser: "Bad news: CodeCombat doesn't run on iPad in the browser. Good news: our native iPad app is awaiting Apple approval."
     campaign: "Campaign"
-    for_beginners: "For Beginners"
+    for_beginners: "Novice"
     multiplayer: "Multiplayer"  # Not currently shown on home page
     for_developers: "For Developers"  # Not currently shown on home page.
     or_ipad: "Or download for iPad"
