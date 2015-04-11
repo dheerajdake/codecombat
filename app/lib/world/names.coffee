@@ -895,6 +895,8 @@ module.exports.thangNames = thangNames =
     'Shen'
     'Shigeru'
     'Takashi'
+    'Yonil'
+    'Xiaomi'
     'Zed'
   ]
   'Sorcerer': [
@@ -902,13 +904,17 @@ module.exports.thangNames = thangNames =
     'Beazer'
     'Claude'
     'Gandalf'
+    'Gnome'
     'Izzrts'
     'Kleene'
+    'Oyester'
     'Pender'
     'Jezebel'
   ]
   'Samurai': [
     # Male
+    'Chicha'
+    'Doppleganger'
     'Hattori'
     'Ieyasu'
     'Izotokogawa'
